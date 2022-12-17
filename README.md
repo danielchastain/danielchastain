@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielchastain&label=Profile%20views&color=0e75b6&style=flat" alt="danielchastain" /> </p>
 
-- 🌱 I’m currently learning **datastructures**
+- Academic Goal; to develop software programs aimed at assisting non-profit organizations to automate operations, program management, and compliance reporting.
 
-- 📫 How to reach me **danielchastain@hotmail.com**
+- 📫 Reach me @**danielchastain@hotmail.com**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1B4AsTozPFSQw70F0MYBA1KuKxBOOTzuZ/edit?usp=sharing&ouid=113228576668095856032&rtpof=true&sd=true](https://docs.google.com/document/d/1B4AsTozPFSQw70F0MYBA1KuKxBOOTzuZ/edit?usp=sharing&ouid=113228576668095856032&rtpof=true&sd=true)
+- 📄 My resumé: [https://docs.google.com/document/d/1B4AsTozPFSQw70F0MYBA1KuKxBOOTzuZ/edit?usp=sharing&ouid=113228576668095856032&rtpof=true&sd=true](https://docs.google.com/document/d/1B4AsTozPFSQw70F0MYBA1KuKxBOOTzuZ/edit?usp=sharing&ouid=113228576668095856032&rtpof=true&sd=true)
 
-- ⚡ Fun fact **Proficient in Python, C++, and JavaScript.**
+- 🌎 Located in Portland, Oregon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
