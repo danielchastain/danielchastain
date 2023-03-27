@@ -5,9 +5,9 @@
 
 - Academic Goal; to develop software programs aimed at assisting non-profit organizations to automate operations, program management, and compliance reporting.
 
-- 📫 Reach me @**danielchastain@hotmail.com**
+- 📫 Reach me @**Paul.chastain1@pcc.edu**
 
-- 📄 My resumé: [https://docs.google.com/document/d/1B4AsTozPFSQw70F0MYBA1KuKxBOOTzuZ/edit?usp=sharing&ouid=113228576668095856032&rtpof=true&sd=true]                <button type="button" class="btn btn-outline-primary">Resume</button>
+- 📄 My resumé: [https://replit.com/@DanielChastain/Portfolio#ResumeDC.pdf]               
 
 - 🌎 Located in Portland, Oregon
 
