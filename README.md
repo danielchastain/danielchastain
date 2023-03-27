@@ -5,7 +5,7 @@
 
 - Academic Goal; to develop software programs aimed at assisting non-profit organizations to automate operations, program management, and compliance reporting.
 
-- 📫 Reach me @**Paul.chastain1@pcc.edu**
+- 📫 Reach me @ **Paul.chastain1@pcc.edu**
 
 - 📄 My resumé: [https://replit.com/@DanielChastain/Portfolio#ResumeDC.pdf]               
 
