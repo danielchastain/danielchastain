@@ -7,7 +7,7 @@
 
 - 📫 Reach me @**danielchastain@hotmail.com**
 
-- 📄 My resumé: [https://docs.google.com/document/d/1B4AsTozPFSQw70F0MYBA1KuKxBOOTzuZ/edit?usp=sharing&ouid=113228576668095856032&rtpof=true&sd=true](https://docs.google.com/document/d/1B4AsTozPFSQw70F0MYBA1KuKxBOOTzuZ/edit?usp=sharing&ouid=113228576668095856032&rtpof=true&sd=true)
+- 📄 My resumé: [https://docs.google.com/document/d/1B4AsTozPFSQw70F0MYBA1KuKxBOOTzuZ/edit?usp=sharing&ouid=113228576668095856032&rtpof=true&sd=true]                <button type="button" class="btn btn-outline-primary">Resume</button>
 
 - 🌎 Located in Portland, Oregon
 
